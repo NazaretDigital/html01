@@ -1,0 +1,56 @@
+
+body{width: 900px;
+     margin: auto;
+     border: #DEB887 solid 1px;}
+
+h2 { background-color: #FFEFD5; }
+
+h2, h3 {
+  text-align: center;
+}
+
+p{
+  padding-left: 20px;
+}
+
+ul{
+  padding-left: 80px;
+}
+
+ol{
+  padding-left: 50px;
+}
+body {
+  background-image: url("marmol.jpg");
+}
+
+h1{
+  padding-left: 10px;
+}
+
+table td { border: #008080 solid 2px;
+border-collapse:collapse;
+}
+
+table{
+margin:auto; 
+}
+
+table td{padding: 5px;}
+
+.col-12, .col-6, .col-4, .col-3 {float: left;}
+.col-12{width:100%;}
+.col-6{width:50%;}
+.col-4{width:33,3333%;}
+.col-3{width:25%;}
+
+
+.tabla2 td, th {border:black solid 1px;}
+.tabla2 {border-collapse:collapse;}
+.tabla2 td, th {padding:10px;}
+.tabla2 thead {background:#666;}
+.tabla2 tfoot {background:#ccc;}
+.tabla2 tbody {background:#fff}
+.tabla2 p, td {color:#000; font-size:12px;}
+.tabla2 th {color:white; font-size:12px;}
+.tabla2 caption {color:#000; font-size:14px;} 
